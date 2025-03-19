@@ -6,12 +6,14 @@ copy-on-select = clipboard
 cursor-opacity = 0.5
 cursor-style = block
 cursor-style-blink = false
-macos-titlebar-style = tabs
+macos-titlebar-style = hidden
 
 # Window
 window-padding-balance = true
 window-save-state = always
 window-colorspace = "display-p3"
+window-padding-x = 10
+window-padding-y = 10
 
 # Keybinds
 keybind = cmd+r=reload_config
